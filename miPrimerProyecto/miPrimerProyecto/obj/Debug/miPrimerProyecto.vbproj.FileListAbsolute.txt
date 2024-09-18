@@ -1,0 +1,11 @@
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe.config
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.pdb
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.xml
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.vbproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.vbproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.xml
+C:\Users\oscar\OneDrive\Escritorio\POOE-VIRTUAL-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb
